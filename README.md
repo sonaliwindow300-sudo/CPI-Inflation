@@ -1,11 +1,31 @@
 # 📊 India CPI Inflation Analysis | Excel Data Analytics Project
 
-🟦 **[Data Engineering](https://support.microsoft.com/en-us/office/import-data-into-excel-8f7f1c0e-9b7a-4e2e-9c5f-2b5b5b5b5b5b)** – Import, Structuring, Cleaning, Unpivoting  
-🟩 **[Excel Analytics](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)** – Pivot Tables, Formulas, Correlation, Averages  
-🟨 **[Statistical Analysis](https://support.microsoft.com/en-us/office/correl-function-995dcef7-0c0a-4bed-a3fb-239d7b68ca92)** – Correlation, Time Series, YoY Change, Pre/Post COVID  
-🟧 **[Data Modeling](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-8b2b5b5b-5b5b-4b5b-9b5b-5b5b5b5b5b5b)** – Categorization, Grouping, Dashboard-Ready Sheets  
-🟥 **[Domain Knowledge](https://en.wikipedia.org/wiki/Consumer_price_index)** – CPI, Inflation Metrics, Sector-wise Analysis  
-🟪 **[Reporting & Documentation](https://support.microsoft.com/en-us/office/insert-or-delete-a-worksheet-88d5b5b5-5b5b-4b5b-9b5b-5b5b5b5b5b5b)** – Multi-sheet organization, Summary Tables
+## 🛠️ Skills & Tools Used
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0F6CBD?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF9800?style=for-the-badge&logoColor=white)
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-8E44AD?style=for-the-badge&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/PivotTables-16A085?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-2980B9?style=for-the-badge&logoColor=white)
+![Inflation Analysis](https://img.shields.io/badge/CPI_Inflation_Analysis-E74C3C?style=for-the-badge&logoColor=white)
+![Trend Analysis](https://img.shields.io/badge/Trend_Analysis-3498DB?style=for-the-badge&logoColor=white)
+![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-6C3483?style=for-the-badge&logoColor=white)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-117864?style=for-the-badge&logoColor=white)
+
+### 📊 Excel Techniques Applied
+
+- Data cleaning and formatting
+- Power Query data transformation and unpivoting
+- PivotTables and category-wise analysis
+- Monthly and yearly CPI comparisons
+- Percentage-change calculations
+- Correlation analysis using the `CORREL()` function
+- Rural vs. Urban CPI comparison
+- Pre- and post-COVID analysis
+- Fuel vs. food, transport, and other category comparisons
+- Data interpretation and insight generation
+
 
 
 ## 📌 Project Overview
