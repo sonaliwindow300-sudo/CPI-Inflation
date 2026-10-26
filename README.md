@@ -148,7 +148,8 @@ This provides an additional category-level comparison of fuel and consumer bever
 The worksheet compares monthly average CPI index values and calculates successive percentage changes for both categories.
 
 
-<img width="930" height="505" alt="image" src="https://github.com/user-attachments/assets/db966e6b-62f5-42bd-a7fb-d32b0478a6a6" />
+<img width="807" height="497" alt="image" src="https://github.com/user-attachments/assets/e08b77d1-6bca-4103-b6ac-e66dd9798755" />
+
 
 
 This comparison is particularly useful for exploring the relationship between energy-related price movements and a major food category.
