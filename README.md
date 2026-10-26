@@ -1,6 +1,4 @@
-# 📊 India CPI Inflation Analysis | Excel Data Analytics Project
-
-## 🛠️ Skills & Tools Used
+# India CPI Inflation Analysis | Excel Data Analytics Project
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-0F6CBD?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)
@@ -13,22 +11,8 @@
 ![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-6C3483?style=for-the-badge&logoColor=white)
 ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-117864?style=for-the-badge&logoColor=white)
 
-### 📊 Excel Techniques Applied
 
-- Data cleaning and formatting
-- Power Query data transformation and unpivoting
-- PivotTables and category-wise analysis
-- Monthly and yearly CPI comparisons
-- Percentage-change calculations
-- Correlation analysis using the `CORREL()` function
-- Rural vs. Urban CPI comparison
-- Pre- and post-COVID analysis
-- Fuel vs. food, transport, and other category comparisons
-- Data interpretation and insight generation
-
-
-
-## 📌 Project Overview
+##  Project Overview
 
 This project explores India's Consumer Price Index (CPI) data through category-wise, sector-wise, monthly, and year-wise analysis using Microsoft Excel.
 
@@ -36,7 +20,7 @@ The project focuses on understanding inflation-related trends across major consu
 
 The analysis presented in this repository covers **Worksheet 4 through Worksheet 14** of the Excel workbook, including broader category analysis, food inflation, COVID-period comparisons, fuel comparisons, and correlation analysis.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze the distribution of CPI observations across broader consumption categories.
 - Compare general CPI index trends across Rural, Urban, and Rural+Urban sectors.
@@ -46,7 +30,7 @@ The analysis presented in this repository covers **Worksheet 4 through Worksheet
 - Compare fuel and light with transport, food and beverages, non-alcoholic beverages, clothing and footwear, and cereals.
 - Measure relationships between selected category-level monthly percentage changes using correlation analysis.
 
-## 🛠️ Tools and Techniques
+## Tools and Techniques
 
 - **Microsoft Excel** — Data analysis, PivotTables, formulas, and summaries.
 - **Power Query** — Data transformation and preparation.
@@ -54,7 +38,7 @@ The analysis presented in this repository covers **Worksheet 4 through Worksheet
 - **Excel formulas** — Percentage-change calculations and correlation using `CORREL()`.
 - **Data interpretation** — Identifying trends and comparing CPI movements.
 
-## 📂 Worksheet-Wise Project Documentation
+##  Worksheet-Wise Project Documentation
 
 ### 1. Broader Categories Wise Inflation
 
@@ -209,7 +193,7 @@ The results suggest that fuel's monthly percentage changes were more closely ass
 5. **Fuel relationships vary by category:** The correlation results show positive associations with transport and non-alcoholic beverages but weak negative associations with food and cereals.
 6. **Index levels and inflation rates are different:** An increase in the CPI index indicates a higher measured price level relative to the index base. The percentage change over time is needed to quantify inflation over that period.
 
-## 🚀 How to Explore the Project
+## How to Explore the Project
 
 1. Download or clone this repository.
 2. Open `CPI Inflation Project.xlsx` in Microsoft Excel.
@@ -219,7 +203,7 @@ The results suggest that fuel's monthly percentage changes were more closely ass
 6. Open Worksheet 14, **Correlation**, to review the summary of correlation coefficients.
 7. Inspect the PivotTables, formulas, and source ranges to understand how the results were calculated.
 
-## 📁 Dataset Information
+## Dataset Information
 
 - **Country:** India
 - **Time period:** The workbook contains CPI data from 2013 to 2023; individual analysis worksheets use different subsets of this period.
@@ -229,7 +213,7 @@ The results suggest that fuel's monthly percentage changes were more closely ass
 
 **Data source:** Add the official dataset source and reference link here before publishing. The source URL is not identified in the workbook.
 
-## ⚠️ Limitations
+## Limitations
 
 - Some worksheets cover selected years or months rather than the full dataset.
 - CPI index values should not be interpreted directly as percentage inflation rates.
@@ -237,7 +221,7 @@ The results suggest that fuel's monthly percentage changes were more closely ass
 - Correlation coefficients depend on the selected observations and formulas.
 - Results should be interpreted in the context of the CPI base period and the source data's methodology.
 
-## 👨‍💻 Skills Demonstrated
+## Skills Demonstrated
 
 - Microsoft Excel
 - Power Query
@@ -248,15 +232,15 @@ The results suggest that fuel's monthly percentage changes were more closely ass
 - Correlation analysis
 - Data interpretation and analytical documentation
 
-## 👤 Author
+## Author
 
-**Your Name**
+**Aastha Dubey**
 
 Aspiring Data Analyst | Excel | Power Query | Data Analytics
 
-- GitHub: [Your GitHub Profile](YOUR-GITHUB-URL)
-- LinkedIn: [Your LinkedIn Profile](YOUR-LINKEDIN-URL)
-
+- GitHub: https://github.com/sonaliwindow300-sudo
+- Email Id- sonaliwindow300@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aastha-dubey-882609300?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
