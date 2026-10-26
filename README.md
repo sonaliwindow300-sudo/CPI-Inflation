@@ -118,7 +118,8 @@ These comparisons help identify which food categories experienced rising or decl
 The worksheet covers annual observations from 2013 through 2023 and provides a historical perspective on price movements before and after the pandemic period.
 
 
-<img width="837" height="415" alt="image" src="https://github.com/user-attachments/assets/eca2be88-d34c-4d34-a29e-0aaad74913ba" />
+<img width="940" height="482" alt="image" src="https://github.com/user-attachments/assets/71e5581b-2ea7-42e8-ab35-fb73db29e3c2" />
+
 
 
 **Research focus:**
